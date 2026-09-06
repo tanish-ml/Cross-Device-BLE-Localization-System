@@ -13,7 +13,7 @@ This project solves the "global cold start" problem (locating a user with no pri
 
 ```text
 .
-├── Project_Description/    # Contains building floor maps and beacon placement diagrams
+├── Project_Description/    # Contains building floor maps and measuments
 ├── Runs/                   # Raw data CSVs collected from various devices (IMU + BLE streams), and timestamp notes
 │   └── data_collection.md  # Detailed documentation of the data collection process and routes
 ├── run_path/               # Images showing the true walking paths for the baseline runs
