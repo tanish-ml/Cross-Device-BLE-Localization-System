@@ -1,0 +1,11 @@
+Run 4
+Room and timestame
+115 - 0.0
+111 - 0.12
+109a -0.40
+108 - 0.54
+top of stairs -1.03
+bottom of stairs 1.19
+End 1.31
+
+walking speed fast with slighly zick zack pattern through the corridor
